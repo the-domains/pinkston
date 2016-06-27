@@ -1,0 +1,28 @@
+name: Pinkston
+favicon: null
+layout_spectrum: 0.21623024786822498
+typography_spectrum: 0.6451405140105635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6874476163648069
+  lightness: 0.7020177068188787
+  saturation: 0.4494167391676456
+  rhythmicContrast: 0.908591847633943
+purpose: []
